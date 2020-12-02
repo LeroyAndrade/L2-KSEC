@@ -26,9 +26,9 @@ De bekende één en nul komen hier vandaan. Omdat de waarde van de bit alleen  1
 Dus, je zal misschien in assembly moeten wezen om de echte waarde uit te lezen?
 End to end encryptie is dus misschien een nachtmerrie voor 'intrusion' omdat je de private key niet lokaal kunt uitlezen
 
-De maximale hoeveelheid bits, op het moment: 4096
-voor de bytes, wordt in 2048, bijvoorbeeld een woord String in stukjes gehakt
-voor ieder blok van, 245bytes, wordt 'opeens' toegevoegd tot het 256 bytes wordt.
+De maximale hoeveelheid bits, op het moment: 4096.
+Voor de bytes, wordt in RSA-2048 bijvoorbeeld een woord String in stukjes gehakt,
+voor ieder blok van, 245bytes, wordt 'iets' toegevoegd tot het 256 bytes wordt.
 Ale blokken samen worden dus een langer en samengevoegd tot één geheel.
 
 Één sleutel komt dichtbij 2n/2blocksm, n*2n/2 bits. With AES, n = 128 (AES-128, AES-192 and AES-256 all use 128-bit blocks).
