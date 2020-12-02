@@ -1,4 +1,4 @@
-#Opdracht 1:
+# Opdracht 1:
 
 Geef een 4-tal functies in PHP die je kunt gebruiken
 voor asymmetrsiche encryptie.
@@ -18,7 +18,7 @@ OpenSSL
 
 
 
-#Opdracht 2:
+# Opdracht 2:
 Wat is de maximale hoeveelheid bits en bytes dat RSA kan encrypten?
 
 De bekende één en nul komen hier vandaan. Omdat de waarde van de bit alleen  1 of 0 kan zijn gaat het dus ook om aan of uit.
@@ -38,7 +38,7 @@ Zo dan, daar is je computer wel even mee bezig om te decrypten
 
 
 
-#Opdracht 3:
+# Opdracht 3:
 Gebruik je in IntelliJ een username / password combinatie voor je Github of gebruik je SSH keys.
 
 Ik login XAMPP/mysql/bin met: mysql.exe -u USERNAMEiNVOEREN -p WachtwoordInvoeren en dan vervolgens USE DATABASeNAAM
